@@ -53,14 +53,14 @@
   border: 10px solid #000;
 }
 
-.flex-item {
+.flex-item{
   flex: 1;
 }
 
-.box2 {
+.box2{
   flex: 2;
 }
 
-.box5 {
+.box5{
   flex: 4;
 }

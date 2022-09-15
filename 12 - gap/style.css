@@ -55,7 +55,8 @@
   gap: 20px 10px;
 }
 
-.flex-item {
+.flex-item{
   flex-basis: 200px;
   flex-grow: 1;
 }
+

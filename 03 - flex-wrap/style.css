@@ -56,6 +56,8 @@
 }
 
 .flex-item {
-  width: calc(33.333333% - 20px);
+  width: calc(33.33333% - 20px);
   margin: 10px;
+
+
 }
